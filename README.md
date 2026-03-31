@@ -28,7 +28,7 @@ Two analysis arms:
 **R/**
 
 - 01_epic_cibersort.R — Immune deconvolution analysis
-- 02_tcr_bcr_repertoire.R — TCR/BCR diversity analysis (MiXCR output)
+- 02_tcr_bcr_repertoire.R — TCR/BCR diversity analysis
 - 03_spiat_density.R — MxIF cell density analysis
 - 04_spiat_mnnd.R — Spatial distance (MNND) analysis
 - 05_spiat_phenotypes.R — Immune phenotype classification
