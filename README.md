@@ -24,7 +24,7 @@ Two analysis arms:
 ---
 
 ## Repository structure
-/R
+
 01_epic_cibersort.R         — Immune deconvolution analysis
 02_tcr_bcr_repertoire.R     — TCR/BCR diversity analysis (MiXCR output)
 03_spiat_density.R          — MxIF cell density analysis
