@@ -30,10 +30,10 @@ Two analysis arms:
 - 01_epic_cibersort.R — Immune deconvolution analysis
 - 02_tcr_bcr_repertoire.R — TCR/BCR diversity analysis
 - 03_spiat_propotions.R — MxIF cell proportions analyses
-- 03_spiat_density.R — MxIF cell density analysis
-- 04_spiat_mnnd.R — Spatial distance (MNND) analysis
-- 05_spiat_phenotypes.R — Immune phenotype classification
-- 06_hdbscan_clustering.R — HDBSCAN cluster analysis
+- 04_spiat_density.R — MxIF cell density analysis
+- 05_spiat_mnnd.R — Spatial distance (MNND) analysis
+- 06_spiat_phenotypes.R — Immune phenotype classification
+- 07_hdbscan_clustering.R — HDBSCAN cluster analysis
 
 ---
 
